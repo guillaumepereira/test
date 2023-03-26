@@ -1,7 +1,7 @@
 Partie back de gestion des produits
 
 
-Ce back a été fait en Node.js avec Express, Joi et Lodash
+Ce backend a été fait en Node.js avec Express, Joi et Lodash
 
 La partie tests a été faite avec Mocha et Chai
 
